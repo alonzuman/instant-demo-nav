@@ -4,7 +4,7 @@ import { StateDebugger } from "./state-debugger";
 export default function Create() {
   return (
     <div>
-      CreatePage 
+      CreatePage
       <StateDebugger />
     </div>
   );
